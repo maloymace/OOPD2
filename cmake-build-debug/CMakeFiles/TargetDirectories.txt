@@ -1,0 +1,3 @@
+C:/Users/nikas/CLionProjects/OOPD2/cmake-build-debug/CMakeFiles/OOPD2.dir
+C:/Users/nikas/CLionProjects/OOPD2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikas/CLionProjects/OOPD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
